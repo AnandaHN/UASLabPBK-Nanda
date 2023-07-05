@@ -1,4 +1,8 @@
-# uas-nanda
+# UAS dan Kuis LAB PBK
+NAMA   : Ananda Hafizh Novhendra
+NPM    : 213510506
+KELAS  : 4A
+
 
 ## Project setup
 ```
